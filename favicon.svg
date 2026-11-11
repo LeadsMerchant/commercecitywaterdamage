@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Commerce City Water Damage">
+  <rect width="64" height="64" rx="14" fill="#17405e"/>
+  <path d="M32 10c0 0-14 16-14 26a14 14 0 0028 0C46 26 32 10 32 10z" fill="#5eead4"/>
+  <path d="M32 22c0 0-8 9-8 15a8 8 0 0016 0c0-6-8-15-8-15z" fill="#e6f0f6" opacity="0.9"/>
+</svg>
